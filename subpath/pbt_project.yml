@@ -1,0 +1,70 @@
+name: mirella.senger
+description: initiative
+version: 0.0.1
+author: gutzqaqy.yynzlzbh@3yagpntc.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:49:36'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels:
+  .prophecy/metadata/sqlmodels/model:
+    name: model
+    schema: null
+    description: null
+    author: gutzqaqy.yynzlzbh@3yagpntc.com
+    files:
+    - model.sql
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-12-08 23:49:38'
+  .prophecy/metadata/sqlmodels/model2:
+    name: model2
+    schema: null
+    description: null
+    author: gutzqaqy.yynzlzbh@3yagpntc.com
+    files:
+    - model2.sql
+    sqlDependencies:
+      models: []
+      datasets: []
+      seeds: []
+      sources: []
+      snapshots: []
+    createdAt: '2024-12-08 23:49:38'
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: gutzqaqy.yynzlzbh@3yagpntc.com
+  createdAt: '2024-12-08 23:49:36'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
